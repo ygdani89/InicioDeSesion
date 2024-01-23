@@ -3,7 +3,7 @@ const baseDeDatos = {
   usuarios: [
     {
       id: 1,
-      name: "Gabriel",
+      name: "Daniel",
       email: "steve@jobs.com",
       password: "Steve123",
     },
